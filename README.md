@@ -32,6 +32,7 @@ git clone https://github.com/SakeenaRashid/techmatch.git
 cd techmatch
 npm install
 npm run dev
+```
 
 🛠 Customize It Yourself
 Want to create your own swipeable job showcase?
@@ -53,4 +54,4 @@ Feel free to use, adapt, or remix it for your own learning or projects — just 
 
 👩🏽‍💻 About Me
 Hi! I’m Sakeena — a software engineer who loves creating cool things in tech (like this app, TechMatch). 
-Connect with me on [LinkedIn] (https://www.linkedin.com/in/sakeenarashid/) and share what you're building! 🛠💖
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sakeenarashid/) and share what you're building! 🛠💖
