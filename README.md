@@ -45,13 +45,13 @@ Want to create your own swipeable job showcase?
 
 🎨 Tweak the layout and styles in index.css
 
-📚 Credits 
+📚 Credits: 
 Big thanks to [Scrimba](https://scrimba.com/) for the original "TinDog" project idea, which this app is inspired by. It has since been customized and extended with new features and styling.
 
-⚖️ License
+⚖️ License:
 This project is open source and available under the MIT License.
 Feel free to use, adapt, or remix it for your own learning or projects — just give credit where it’s due. ✨
 
-👩🏽‍💻 About Me
+👩🏽‍💻 About Me:
 Hi! I’m Sakeena — a software engineer who loves creating cool things in tech (like this app, TechMatch). 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sakeenarashid/) and share what you're building! 🛠💖
